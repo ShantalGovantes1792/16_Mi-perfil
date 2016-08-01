@@ -1,0 +1,96 @@
+/* Inserta tu CSS aqui */
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+/*clases header*/
+ul>li{
+	display: inline-block;
+	padding: 5px 10px;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: #8A0886;
+}
+a:hover{
+	color: #00FFFF;
+}
+.fondo-banner{
+	background-image: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 300px;
+	/*width: 100%;*/
+	background-position: center;
+}	
+
+.twitter{
+	
+
+}
+.face{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.linkedin{
+	left: 0px;
+}
+/*.fondo-banner-cont{
+	padding-bottom: 20px;
+	padding-top: 50px;
+}*/
+.row-padding{
+	padding-top:40px;
+	padding-bottom: 40px;
+
+}
+.fondo-gris{
+	/*background-color: #DADCDE;*/
+	background-image: url("../img/tile2.png");
+}	
+.img-redondas{
+	display: block;
+	margin: auto;
+	border-radius: 100px;
+	border: pink 3px solid;
+	width: 200px;
+	height: 200px;
+	padding: 3px;
+
+}
+.title-marg{
+	margin-top: 8px;
+	margin-bottom: 8px;
+
+}
+.foto-perfil{
+	width: 100%;
+}
+.menu{
+	height: 65px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.texto-shan{
+	font-size: 30px;
+	color: white;
+
+}
+.cian{
+color: #DF01D7;
+font-size: 20px;
+font-weight: 30%;
+}
+.menu-color{
+background-color: #0B173B;
+
+}
+.fondito{
+background-image: url("../img/tile1.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 300px;
+	/*width: 100%;*/
+	background-position: center;
+}
